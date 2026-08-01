@@ -11,7 +11,7 @@
 ## 👥 Teams
 
 ### Infrastructure Operations
-Kyle, Reema, Maurice, Isaac, Ezra, Imran
+Kyle, Reema, Maurice, Isaac, Ezra, Imran, Daniel
 
 ### Windows Team
 Joe, Taylor, Eric
@@ -55,7 +55,7 @@ Wasim, Julian, Venkat, Lonnie
 **Document Library:** Document Name, Category (Runbook/SOP/Policy/Reference/Template/Other), Team, Last Updated, Notes
 
 ### Team Member Dropdowns (All databases)
-- **Infrastructure Operations:** Kyle, Reema, Maurice, Isaac, Ezra, Imran
+- **Infrastructure Operations:** Kyle, Reema, Maurice, Isaac, Ezra, Imran, Daniel
 - **Windows Team:** Joe, Taylor, Eric
 - **Linux Team:** Wasim, Julian, Venkat, Lonnie
 
